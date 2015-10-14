@@ -1,0 +1,20 @@
+MongoDB
+GSon library
+codebeautify to convert csv to json file
+Added an extra row in csv
+Ethnicity error
+
+HOW TO RUN
+mvn clean package
+java -jar target/HackerEarthShopAnalyst-0.0.1-SNAPSHOT.jar
+
+VALID URLS
+http://localhost:8080/ping
+http://localhost:8080/mongoDbNames
+http://localhost:8080/insertData
+http://localhost:8080/displayMongoData
+http://localhost:8080/services/search_caption?query=Friendly
+http://localhost:8080/services/search_caption?query=to&page=10
+http://localhost:8080/services/count
+http://localhost:8080/services/British/averages
+http://localhost:8080/services/social_habits?vegetarian=0&drink=
